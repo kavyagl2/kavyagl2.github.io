@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 **Meet Kavya, the Data Science Mastermind with a Past Life in HR!**
+
 Mastered the art of numbers (MSc in Data Science) and Management at IIT Ropar & IIM Amritsar 🏆. Before that, aced HR at UPES.  I bridge the gap between humans and data 🤝📈 (and make them both happy 😄
 
 
@@ -14,8 +15,7 @@ By day, Kavya wrangles machines with the best of them as a Machine Learning Engi
 
 One thing's for sure, Kavya's got the brains and the experience to tackle any challenge that comes her way. So, if you're looking for someone who can speak both HR lingo and data science jargon, Kavya's your girl!
 
-Websites reviewed
-
 ### Contact me
 
 [Kavya Agrawal Email](mailto:kavya9140@gmail.com)
+[Kavya's LinkedIN](https://www.linkedin.com/in/kavya-agrawal-34b316197/)
